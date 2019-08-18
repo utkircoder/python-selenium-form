@@ -1,2 +1,10 @@
 # python-selenium-form
-Automatic form fill in Python seleinum
+
+### Installation
+```sh
+$  pip3 install -r requirements.txt
+```
+
+
+
+
